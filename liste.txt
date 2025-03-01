@@ -1,6 +1,6 @@
-Video İzleme ve Öneriler – Kullanıcıların ilgi alanlarına göre önerilen videoları izlemelerini sağlar.
-
 Abonelik Sistemi – Kullanıcılar favori içerik üreticilerine abone olarak yeni videoları kolayca takip edebilir.
+
+Video İzleme ve Öneriler – Kullanıcıların ilgi alanlarına göre önerilen videoları izlemelerini sağlar.
 
 Çevrimdışı İzleme – Kullanıcılar videoları indirerek internet bağlantısı olmadan izleyebilir (YouTube Premium ile).
 
