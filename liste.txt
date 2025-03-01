@@ -5,3 +5,5 @@ Abonelik Sistemi – Kullanıcılar favori içerik üreticilerine abone olarak y
 Canlı Yayın – İçerik üreticileri anlık olarak izleyicileriyle etkileşime geçebilir ve canlı yayın yapabilir.
 
 Çevrimdışı İzleme – Kullanıcılar videoları indirerek internet bağlantısı olmadan izleyebilir (YouTube Premium ile).
+
+Kısa Videolar (YouTube Shorts) – Kullanıcılar, TikTok benzeri kısa ve dikey videolar izleyebilir veya kendi kısa videolarını oluşturup paylaşabilir.
