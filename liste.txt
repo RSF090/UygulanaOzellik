@@ -2,7 +2,6 @@ Video İzleme ve Öneriler – Kullanıcıların ilgi alanlarına göre önerile
 
 Abonelik Sistemi – Kullanıcılar favori içerik üreticilerine abone olarak yeni videoları kolayca takip edebilir.
 
-
 Çevrimdışı İzleme – Kullanıcılar videoları indirerek internet bağlantısı olmadan izleyebilir (YouTube Premium ile).
 
 Kısa Videolar (YouTube Shorts) – Kullanıcılar, TikTok benzeri kısa ve dikey videolar izleyebilir veya kendi kısa videolarını oluşturup paylaşabilir.
