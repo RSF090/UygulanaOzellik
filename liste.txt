@@ -2,7 +2,6 @@ Video İzleme ve Öneriler – Kullanıcıların ilgi alanlarına göre önerile
 
 Abonelik Sistemi – Kullanıcılar favori içerik üreticilerine abone olarak yeni videoları kolayca takip edebilir.
 
-Canlı Yayın – İçerik üreticileri anlık olarak izleyicileriyle etkileşime geçebilir ve canlı yayın yapabilir.
 
 Çevrimdışı İzleme – Kullanıcılar videoları indirerek internet bağlantısı olmadan izleyebilir (YouTube Premium ile).
 
